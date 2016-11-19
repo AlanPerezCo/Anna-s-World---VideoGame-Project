@@ -1,0 +1,4 @@
+-Esta mini base de datos debe estar adjunta dentor de la carpeta "Assets" del vieodjuego "Anna's World"
+
+-Es NECESARIO DB Browser for SQLite para hacer uso de ella (ver en el repositorio compelemntos de DBMS para el proyecto Anna's World)
+
